@@ -52,4 +52,4 @@ Se definen primero las palancas (precio por noche, ocupación y precio de compra
 
 ---
 
-Pablo Pavón · Senior Business & Data Analyst · [pablodpavon.github.io](https://pablodpavon.github.io)
+Pablo Pavon · Senior Business & Data Analyst · [pablodpavon.github.io](https://pablodpavon.github.io)
