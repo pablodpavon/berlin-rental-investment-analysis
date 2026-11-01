@@ -42,6 +42,15 @@ Mitte charges the most per night but returns less per euro than Treptow-Köpenic
 
 Data: public Airbnb listings for Berlin plus average price per m² by district; the files used are in this [shared folder](https://drive.google.com/drive/folders/1ciKvPyA48WBZVOTcuoXKLKkVrTY3a6Tg?usp=share_link). Python, pandas, SQLite, seaborn, folium.
 
+## Run it
+
+```bash
+pip install pandas numpy matplotlib seaborn folium sqlalchemy jupyter
+jupyter notebook   # then open the three notebooks in order
+```
+
+The listing files are not in this repository: download them from the shared folder above and point the `read_csv` paths in `02_data_collection.ipynb` to where you saved them. The data is a public snapshot, so prices and listings have changed since.
+
 ---
 
 ## Versión en español
@@ -52,4 +61,4 @@ Se definen primero las palancas (precio por noche, ocupación y precio de compra
 
 ---
 
-Pablo Pavon · Senior Business & Data Analyst · [pablodpavon.github.io](https://pablodpavon.github.io)
+Pablo Pavon · Senior Business & Data Analyst · [pablodpavon.com](https://pablodpavon.com)
